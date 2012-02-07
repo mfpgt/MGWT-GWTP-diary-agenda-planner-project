@@ -1,0 +1,3 @@
+# Module timemanager
+# RPC service class, partial path of RPC policy file
+com.gwtplatform.dispatch.shared.DispatchService, 53358F5A3D22F0A9EAE99CD63A1869D9.gwt.rpc
